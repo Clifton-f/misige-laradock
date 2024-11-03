@@ -1,0 +1,17 @@
+]0;clifton@fedora:/var/www/html/neo-misige-api/misige-laradockERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+(B[0;7m(B[m]0;clifton@fedora:/var/www/html/neo-misige-api/misige-laradock(B[0;1mWelcome to the MariaDB monitor.  Commands end with ; or \g.
+(B[m(B[0;1mYour MariaDB connection id is 110
+Server version: 11.5.2-MariaDB-ubu2404 mariadb.org binary distribution
+
+(B[m(B[0;1mCopyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+(B[m(B[0;1mType 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+(B[mMariaDB [(none)]> cc^C
+MariaDB [(none)]> ^C
+MariaDB [(none)]> ^C
+MariaDB [(none)]> 
+MariaDB [(none)]> ^C
+MariaDB [(none)]> ^C
+MariaDB [(none)]> ^C
+MariaDB [(none)]> ]0;clifton@fedora:/var/www/html/neo-misige-api/misige-laradock]0;clifton@fedora:/var/www/html/neo-misige-api/misige-laradock
